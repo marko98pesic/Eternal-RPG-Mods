@@ -1,0 +1,11 @@
+# Eternal RPG Modpack manifest
+# Format: modId;jarName;version;downloadUrl
+
+loginmod;LoginMod.jar;1.0.0;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/LoginMod.jar
+xpmod;XpMod.jar;1.0.1;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/XpMod.jar
+jobsmod;JobsMod.jar;1.0.1;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/JobsMod.jar
+tpmod;TpMod.jar;1.0.0;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/TpMod.jar
+settlementguard;SettlementGuard.jar;1.0.1;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/SettlementGuard.jar
+broadcastmod;Broadcast.jar;1.0.0;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/Broadcast.jar
+tradesystem;Trade System.jar;1.0;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/Trade%20System.jar
+moremounts;MoreMounts-1.0.2-1.08.jar;1.08;https://raw.githubusercontent.com/marko98pesic/Eternal-RPG-Mods/main/MoreMounts-1.0.2-1.08.jar
